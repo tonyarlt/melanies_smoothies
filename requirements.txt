@@ -1,4 +1,4 @@
 # requirements.txt
-snoflake-snowpark-python
+snowflake-snowpark-python
 streamlit
   
